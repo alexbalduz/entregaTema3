@@ -1,7 +1,7 @@
 print("Ingrese el tiempo en segundos:")
 tiempo = float(input())
 
-print("Ingrese la velocidad")
+print("Ingrese la velocidad:")
 velocidad = float(input())
 
 distancia = velocidad * tiempo
