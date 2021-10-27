@@ -1,6 +1,3 @@
-from _typeshed import IdentityFunction
-
-
 # Pseudocódigo
 # 1. Inicio
 # 2. Escribir("Ingresa la primera nota:")
